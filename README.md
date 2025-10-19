@@ -1,16 +1,16 @@
 [//]: # (Simple Information)
-![ReadTheFuckingManual](https://komarev.com/ghpvc/?username=ReadTheFuckingManual)
-![GitHub Stars](https://img.shields.io/github/stars/ReadTheFuckingManual?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/ReadTheFuckingManual)
-![Operating System](https://img.shields.io/badge/OS-Ubuntu-orange?style=flat&logo=ubuntu)
-![Operating System](https://img.shields.io/badge/OS-Nixos-blue?style=flat&logo=nixos)
-![Operating System](https://img.shields.io/badge/OS-BTW-blue?style=flat&logo=archlinux)
-[![Awesome Badge](https://awesome.re/mentioned-badge.svg)](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+![ReadTheFuckingManual](https://komarev.com/ghpvc/?username=ReadTheFuckingManual&v=20251019-1)
+![GitHub Stars](https://img.shields.io/github/stars/ReadTheFuckingManual?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat&cacheSeconds=300&v=20251019-1)
+![GitHub followers](https://img.shields.io/github/followers/ReadTheFuckingManual?cacheSeconds=300&v=20251019-1)
+![Operating System](https://img.shields.io/badge/OS-Ubuntu-orange?style=flat&logo=ubuntu&v=20251019-1)
+![Operating System](https://img.shields.io/badge/OS-Nixos-blue?style=flat&logo=nixos&v=20251019-1)
+![Operating System](https://img.shields.io/badge/OS-BTW-blue?style=flat&logo=archlinux&v=20251019-1)
+[![Awesome Badge](https://awesome.re/mentioned-badge.svg?v=20251019-1)](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Tech+Enthusiast;Decentralized+Lover" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Tech+Enthusiast;Decentralized+Lover&v=20251019-1" alt="Typing SVG">
 </p>
 
 ---
@@ -197,7 +197,7 @@
 ### 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ReadTheFuckingManual&theme=tokyonight&no-bg=true&no-frame=true&column=8&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=ReadTheFuckingManual&theme=tokyonight&no-bg=true&no-frame=true&column=8&margin-w=8&margin-h=8&v=20251019-1" alt="GitHub Trophies"/>
   </a>
 </p>
 
@@ -205,19 +205,19 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ReadTheFuckingManual&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ReadTheFuckingManual&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ReadTheFuckingManual&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&v=20251019-1" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=ReadTheFuckingManual&theme=tokyonight&hide_border=true&v=20251019-1" />
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ReadTheFuckingManual&theme=tokyonight&hide_border=true&area=true" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ReadTheFuckingManual&theme=tokyonight&hide_border=true&area=true&v=20251019-1" />
 </p>
 
 ---
 
 ### 📈 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReadTheFuckingManual&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReadTheFuckingManual&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&v=20251019-1" />
 </p>
 
 ---
